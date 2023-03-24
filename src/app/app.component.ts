@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { ModalpopupComponent } from './modalpopup/modalpopup.component';
+import { MatDialog } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-root',
